@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name:  flask-app
-        image:  developer9844/python-img:argocd-deployment
+        image:  developer9844/python-img:app-14
         resources:
           requests:
             cpu: 100m
